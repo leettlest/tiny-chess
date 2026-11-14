@@ -1,2 +1,0 @@
-AAMT smoke test — this file was uploaded by the AAMT Projects UI.
-If you can read me, the GitHub App write path works.
